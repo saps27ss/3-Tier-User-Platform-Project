@@ -6,7 +6,7 @@ on:
     paths:
       - client/**
       - server/**
-      - .github/workflows/qa.yml
+      - .github/workflows/qa-cicd.yml
 
 jobs:
   gitleaks-scan:
